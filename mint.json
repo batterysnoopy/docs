@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "API key",
+    "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
